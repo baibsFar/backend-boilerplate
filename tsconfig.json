@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "esModuleInterop": true,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "moduleResolution": "node16"
+    },
+    "include": [
+        "src/**/*.ts"
+    ],
+    "exclude": [
+        "dist"
+    ]
+}
